@@ -1,0 +1,2 @@
+# ucgen-alan
+alan hesaplama
